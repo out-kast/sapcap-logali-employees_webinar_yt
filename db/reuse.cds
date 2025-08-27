@@ -1,4 +1,4 @@
-namespace com.logaligroup
+namespace com.logaligroup;
 
 using {
     cuid,
@@ -33,7 +33,7 @@ entity Nationalities : cuid {
 };
 
 entity Status : CodeList {
-    key code : String enum {
+    key code        : String enum {
             Active = 'Active'; //3
             Inactive = 'Inactive'; //1
             OnHold = 'On Hold'; //2
