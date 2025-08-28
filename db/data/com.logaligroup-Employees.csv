@@ -1,0 +1,2 @@
+ID,createdAt,createdBy,modifiedAt,modifiedBy,documentType_ID,documentNumber,firstName,secondname,firstSurname,secondSurname,gender_ID,birthDate,birthPlace_ID,nationality,status_code
+c63eca9d-7d23-44f6-a515-35b30b52d799,2025-02-06T18:52:48.754Z,anonymous,2025-02-06T18:52:48.7542,anonymous,3490b934-7787-410e-a12e-9c8f3c363bb2,123456789,Jorge,Luis,Briceño,Amesty,e7f5fa2f-c91b-479e-bef9-c9317f6e310b,1993-11-30,c0c79fc8-ef1c-4d31-8e9c-979380cef569,VENEZUELAN,OnHold

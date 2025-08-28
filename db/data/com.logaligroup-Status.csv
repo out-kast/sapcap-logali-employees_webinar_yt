@@ -1,0 +1,4 @@
+name,descr,code,criticality
+Active, null,  Active, 3
+Inactive, null, Inactive, 1
+OnHold, null, On Hold, 2

@@ -19,7 +19,7 @@ entity Genders : cuid, reuse {
 };
 
 entity Countries : cuid {
-    country     : String(56);
+    country     : String(80);
     code        : String(3);
     alpha2Code  : String(2);
     alpha3Code  : String(3);
@@ -74,7 +74,8 @@ annotate Person with {
                  @title: 'Second Surname';
     fullName
                  @title: 'Full Name';
-    gender       @title: 'Gender';
+    gender
+                 @title: 'Gender';
     birthDate
                  @title: 'Birth Date';
     birthPlace
@@ -84,3 +85,11 @@ annotate Person with {
     status
                  @title: 'Status';
 }
+
+annotate DocumentTypes with {
+    @title : 'Document Types'
+    ID @Common : { 
+        Text : documentType,
+        TextArrangement : #TextOnly
+    }
+};
