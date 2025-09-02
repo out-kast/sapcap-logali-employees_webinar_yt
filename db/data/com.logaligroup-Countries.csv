@@ -1,51 +1,114 @@
-ID,country,code,alpha2Code,alpha3Code
-6aa57353-e361-417c-a776-7fa7d789b864,Afghanistan,AF,AF,AFG
-1f2b3c4d-5e6f-7081-920a-b1c2d3e4f5a6,Albania,AL,AL,ALB
-2b3c4d5e-6f70-8192-0ab1-c2d3e4f5a6b7,Algeria,DZ,DZ,DZA
-3c4d5e6f-7081-920a-b1c2-d3e4f5a6b7c8,Andorra,AD,AD,AND
-4d5e6f70-8192-0ab1-c2d3-e4f5a6b7c8d9,Angola,AO,AO,AGO
-5e6f7081-920a-b1c2-d3e4-f5a6b7c8d9e0,Antigua and Barbuda,AG,AG,ATG
-6f708192-0ab1-c2d3-e4f5-a6b7c8d9e0f1,Argentina,AR,AR,ARG
-7081920a-b1c2-d3e4-f5a6-b7c8d9e0f1g2,Armenia,AM,AM,ARM
-81920ab1-c2d3-e4f5-a6b7-c8d9e0f1g2h3,Australia,AU,AU,AUS
-920ab1c2-d3e4-f5a6-b7c8-d9e0f1g2h3i4,Austria,AT,AT,AUT
-a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6,Belgium,BE,BE,BEL
-b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6q7,Brazil,BR,BR,BRA
-c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7r8,Canada,CA,CA,CAN
-d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9,Chile,CL,CL,CHL
-e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0,China,CN,CN,CHN
-f6g7h8i9-j0k1-l2m3-n4o5-p6q7r8s9t0u1,Colombia,CO,CO,COL
-g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2,Costa Rica,CR,CR,CRI
-h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3,Cuba,CU,CU,CUB
-i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4,Denmark,DK,DK,DNK
-j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y5,Ecuador,EC,EC,ECU
-k1l2m3n4-o5p6-q7r8-s9t0-u1v2w3x4y5z6,Egypt,EG,EG,EGY
-l2m3n4o5-p6q7-r8s9-t0u1-v2w3x4y5z6a7,Spain,ES,ES,ESP
-m3n4o5p6-q7r8-s9t0-u1v2-w3x4y5z6a7b8,France,FR,FR,FRA
-n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9,Germany,DE,DE,DEU
-o5p6q7r8-s9t0-u1v2-w3x4-y5z6a7b8c9d0,Greece,GR,GR,GRC
-p6q7r8s9-t0u1-v2w3-x4y5-z6a7b8c9d0e1,India,IN,IN,IND
-q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2,Ireland,IE,IE,IRL
-r8s9t0u1-v2w3-x4y5-z6a7-b8c9d0e1f2g3,Italy,IT,IT,ITA
-s9t0u1v2-w3x4-y5z6-a7b8-c9d0e1f2g3h4,Japan,JP,JP,JPN
-t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5,Mexico,MX,MX,MEX
-u1v2w3x4-y5z6-a7b8-c9d0-e1f2g3h4i5j6,Netherlands,NL,NL,NLD
-v2w3x4y5-z6a7-b8c9-d0e1-f2g3h4i5j6k7,New Zealand,NZ,NZ,NZL
-w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8,Norway,NO,NO,NOR
-x4y5z6a7-b8c9-d0e1-f2g3-h4i5j6k7l8m9,Panama,PA,PA,PAN
-y5z6a7b8-c9d0-e1f2-g3h4-i5j6k7l8m9n0,Paraguay,PY,PY,PRY
-z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1,Peru,PE,PE,PER
-a7b8c9d0-e1f2-g3h4-i5j6-k7l8m9n0o1p2,Philippines,PH,PH,PHL
-b8c9d0e1-f2g3-h4i5-j6k7-l8m9n0o1p2q3,Poland,PL,PL,POL
-c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4,Portugal,PT,PT,PRT
-d0e1f2g3-h4i5-j6k7-l8m9-n0o1p2q3r4s5,Romania,RO,RO,ROU
-e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6,Russia,RU,RU,RUS
-f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7,Sweden,SE,SE,SWE
-g3h4i5j6-k7l8-m9n0-o1p2-q3r4s5t6u7v8,Switzerland,CH,CH,CHE
-h4i5j6k7-l8m9-n0o1-p2q3-r4s5t6u7v8w9,Thailand,TH,TH,THA
-i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0,Turkey,TR,TR,TUR
-j6k7l8m9-n0o1-p2q3-r4s5-t6u7v8w9x0y1,Ukraine,UA,UA,UKR
-k7l8m9n0-o1p2-q3r4-s5t6-u7v8w9x0y1z2,United Kingdom,GB,GB,GBR
-l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3,United States,US,US,USA
-m9n0o1p2-q3r4-s5t6-u7v8-w9x0y1z2a3b4,Uruguay,UY,UY,URY
-n0o1p2q3-r4s5-t6u7-v8w9-x0y1z2a3b4c5,Venezuela,VE,VE,VEN
+ID,code,alpha2Code,alpha3Code,country
+0022e8bd-bdd4-4787-938e-e9b819fd1921,010,AQ,ATA,Antarctica
+6aa57353-e361-417c-a776-7fa7d789b864,004,AF,AFG,Afghanistan
+1f2b3c4d-5e6f-7081-920a-b1c2d3e4f5a6,008,AL,ALB,Albania
+2b3c4d5e-6f70-8192-0ab1-c2d3e4f5a6b7,012,DZ,DZA,Algeria
+3c4d5e6f-7081-920a-b1c2-d3e4f5a6b7c8,020,AD,AND,Andorra
+4d5e6f70-8192-0ab1-c2d3-e4f5a6b7c8d9,024,AO,AGO,Angola
+5e6f7081-920a-b1c2-d3e4-f5a6b7c8d9e0,028,AG,ATG,Antigua and Barbuda
+6f708192-0ab1-c2d3-e4f5-a6b7c8d9e0f1,032,AR,ARG,Argentina
+7081920a-b1c2-d3e4-f5a6-b7c8d9e0f1g2,051,AM,ARM,Armenia
+81920ab1-c2d3-e4f5-a6b7-c8d9e0f1g2h3,036,AU,AUS,Australia
+920ab1c2-d3e4-f5a6-b7c8-d9e0f1g2h3i4,040,AT,AUT,Austria
+a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6,056,BE,BEL,Belgium
+b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6q7,076,BR,BRA,Brazil
+c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7r8,124,CA,CAN,Canada
+d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9,152,CL,CHL,Chile
+e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0,156,CN,CHN,China
+f6g7h8i9-j0k1-l2m3-n4o5-p6q7r8s9t0u1,170,CO,COL,Colombia
+g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2,188,CR,CRI,Costa Rica
+h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3,192,CU,CUB,Cuba
+i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4,208,DK,DNK,Denmark
+j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y5,218,EC,ECU,Ecuador
+k1l2m3n4-o5p6-q7r8-s9t0-u1v2w3x4y5z6,818,EG,EGY,Egypt
+l2m3n4o5-p6q7-r8s9-t0u1-v2w3x4y5z6a7,724,ES,ESP,Spain
+m3n4o5p6-q7r8-s9t0-u1v2-w3x4y5z6a7b8,250,FR,FRA,France
+n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9,276,DE,DEU,Germany
+o5p6q7r8-s9t0-u1v2-w3x4-y5z6a7b8c9d0,300,GR,GRC,Greece
+p6q7r8s9-t0u1-v2w3-x4y5-z6a7b8c9d0e1,356,IN,IND,India
+q7r8s9t0-u1v2-w3x4-y5z6-a7b8c9d0e1f2,372,IE,IRL,Ireland
+r8s9t0u1-v2w3-x4y5-z6a7-b8c9d0e1f2g3,380,IT,ITA,Italy
+s9t0u1v2-w3x4-y5z6-a7b8-c9d0e1f2g3h4,392,JP,JPN,Japan
+t0u1v2w3-x4y5-z6a7-b8c9-d0e1f2g3h4i5,484,MX,MEX,Mexico
+u1v2w3x4-y5z6-a7b8-c9d0-e1f2g3h4i5j6,528,NL,NLD,Netherlands
+v2w3x4y5-z6a7-b8c9-d0e1-f2g3h4i5j6k7,554,NZ,NZL,New Zealand
+w3x4y5z6-a7b8-c9d0-e1f2-g3h4i5j6k7l8,578,NO,NOR,Norway
+x4y5z6a7-b8c9-d0e1-f2g3-h4i5j6k7l8m9,591,PA,PAN,Panama
+y5z6a7b8-c9d0-e1f2-g3h4-i5j6k7l8m9n0,600,PY,PRY,Paraguay
+z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1,604,PE,PER,Peru
+a7b8c9d0-e1f2-g3h4-i5j6-k7l8m9n0o1p2,608,PH,PHL,Philippines
+b8c9d0e1-f2g3-h4i5-j6k7-l8m9n0o1p2q3,616,PL,POL,Poland
+c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4,620,PT,PRT,Portugal
+d0e1f2g3-h4i5-j6k7-l8m9-n0o1p2q3r4s5,642,RO,ROU,Romania
+e1f2g3h4-i5j6-k7l8-m9n0-o1p2q3r4s5t6,643,RU,RUS,Russia
+f2g3h4i5-j6k7-l8m9-n0o1-p2q3r4s5t6u7,752,SE,SWE,Sweden
+g3h4i5j6-k7l8-m9n0-o1p2-q3r4s5t6u7v8,756,CH,CHE,Switzerland
+h4i5j6k7-l8m9-n0o1-p2q3-r4s5t6u7v8w9,764,TH,THA,Thailand
+i5j6k7l8-m9n0-o1p2-q3r4-s5t6u7v8w9x0,792,TR,TUR,Turkey
+j6k7l8m9-n0o1-p2q3-r4s5-t6u7v8w9x0y1,804,UA,UKR,Ukraine
+k7l8m9n0-o1p2-q3r4-s5t6-u7v8w9x0y1z2,826,GB,GBR,United Kingdom
+l8m9n0o1-p2q3-r4s5-t6u7-v8w9x0y1z2a3,840,US,USA,United States
+m9n0o1p2-q3r4-s5t6-u7v8-w9x0y1z2a3b4,858,UY,URY,Uruguay
+n0o1p2q3-r4s5-t6u7-v8w9-x0y1z2a3b4c5,862,VE,VEN,Venezuela
+n1o2p3q4-r5s6-t7u8-v9w0-x1y2z3a4b5c6,031,AZ,AZE,Azerbaijan
+n2o3p4q5-r6s7-t8u9-v0w1-x2y3z4a5b6c7,068,BO,BOL,Bolivia
+n3o4p5q6-r7s8-t9u0-v1w2-x3y4z5a6b7c8,100,BG,BGR,Bulgaria
+n4o5p6q7-r8s9-t0u1-v2w3-x4y5z6a7b8c9,120,CM,CMR,Cameroon
+n5o6p7q8-r9s0-t1u2-v3w4-x5y6z7a8b9c0,170,CO,COL,Colombia
+n6o7p8q9-r0s1-t2u3-v4w5-x6y7z8a9b0c1,180,CD,COD,Congo Democratic Republic
+n7o8p9q0-r1s2-t3u4-v5w6-x7y8z9a0b1c2,384,CIV,CI,Côte d'Ivoire
+n8o9p0q1-r2s3-t4u5-v6w7-x8y9z0a1b2c3,214,DOM,DO,Dominican Republic
+n9o0p1q2-r3s4-t5u6-v7w8-x9y0z1a2b3c4,222,SV,SLV,El Salvador
+o0p1q2r3-s4t5-u6v7-w8x9-y0z1a2b3c4d5,232,ER,ERI,Eritrea
+o1p2q3r4-s5t6-u7v8-w9x0-y1z2a3b4c5d6,233,EE,EST,Estonia
+o2p3q4r5-s6t7-u8v9-w0x1-y2z3a4b5c6d7,242,FJ,FJI,Fiji
+o3p4q5r6-s7t8-u9v0-w1x2-y3z4a5b6c7d8,288,GH,GHA,Ghana
+o4p5q6r7-s8t9-u0v1-w2x3-y4z5a6b7c8d9,320,GT,GTM,Guatemala
+o5p6q7r8-s9t0-u1v2-w3x4-y5z6a7b8c9d0,340,HN,HND,Honduras
+o6p7q8r9-s0t1-u2v3-w4x5-y6z7a8b9c0d1,348,HU,HUN,Hungary
+o7p8q9r0-s1t2-u3v4-w5x6-y7z8a9b0c1d2,352,IS,ISL,Iceland
+o8p9q0r1-s2t3-u4v5-w6x7-y8z9a0b1c2d3,360,ID,IDN,Indonesia
+o9p0q1r2-s3t4-u5v6-w7x8-y9z0a1b2c3d4,364,IR,IRN,Iran
+p0q1r2s3-t4u5-v6w7-x8y9-z0a1b2c3d4e5,368,IQ,IRQ,Iraq
+p1q2r3s4-t5u6-v7w8-x9y0-z1a2b3c4d5e6,376,IL,ISR,Israel
+p2q3r4s5-t6u7-v8w9-x0y1-z2a3b4c5d6e7,388,JM,JAM,Jamaica
+p3q4r5s6-t7u8-v9w0-x1y2-z3a4b5c6d7e8,400,JO,JOR,Jordan
+p4q5r6s7-t8u9-v0w1-x2y3-z4a5b6c7d8e9,404,KE,KEN,Kenya
+p5q6r7s8-t9u0-v1w2-x3y4-z5a6b7c8d9e0,410,KR,KOR,Korea Republic of
+p6q7r8s9-t0u1-v2w3-x4y5-z6a7b8c9d0e1,422,LB,LBN,Lebanon
+p7q8r9s0-t1u2-v3w4-x5y6-z7a8b9c0d1e2,434,LY,LBY,Libya
+p8q9r0s1-t2u3-v4w5-x6y7-z8a9b0c1d2e3,458,MYS,MY,Malaysia
+p9q0r1s2-t3u4-v5w6-x7y8-z9a0b1c2d3e4,466,ML,MLI,Mali
+q0r1s2t3-u4v5-w6x7-y8z9-a0b1c2d3e4f5,504,MA,MAR,Morocco
+q1r2s3t4-u5v6-w7x8-y9z0-a1b2c3d4e5f6,524,NP,NPL,Nepal
+q2r3s4t5-u6v7-w8x9-z0a1-b2c3d4e5f6g7,562,NE,NER,Niger
+q3r4s5t6-u7v8-w9x0-y1z2-a2b3c4d5e6f7,566,NG,NGA,Nigeria
+q4r5s6t7-u8v9-w0x1-y2z3-a3b4c5d6e7f8,586,PK,PAK,Pakistan
+q5r6s7t8-u9v0-w1x2-y3z4-a4b5c6d7e8f9,598,PG,PNG,Papua New Guinea
+q6r7s8t9-u0v1-w2x3-y4z5-a5b6c7d8e9f0,682,SA,SAU,Saudi Arabia
+q7r8s9t0-u1v2-w3x4-y5z6-a6b7c8d9e0f1,686,SN,SEN,Senegal
+q8r9s0t1-u2v3-w4x5-y6z7-a7b8c9d0e1f2,694,SL,SLE,Sierra Leone
+q9r0s1t2-u3v4-w5x6-y7z8-a8b9c0d1e2f3,703,SK,SVK,Slovakia
+r0s1t2u3-v4w5-x6y7-z8a9-b0c1d2e3f4g5,705,SI,SVN,Slovenia
+r1s2t3u4-v5w6-x7y8-z9a0-b1c2d3e4f5g6,710,ZA,ZAF,South Africa
+r2s3t4u5-v6w7-x8y9-z0a1-b2c3d4e5f6g7,729,SD,SDN,Sudan
+r3s4t5u6-v7w8-x9y0-z1a2-b3c4d5e6f7g8,760,SY,SYR,Syrian Arab Republic
+r4s5t6u7-v8w9-x0y1-z2a3-b4c5d6e7f8g9,834,TZ,TZA,Tanzania
+t7u8v9w0-x1y2-z3a4-b5c6-d7e8f9g0h1i2,050,BD,BGD,Bangladesh
+t8u9v0w1-x2y3-z4a5-b6c7-d8e9f0g1h2i3,112,BY,BLR,Belarus
+t9u0v1w2-x3y4-z5a6-b7c8-d9e0f1g2h3i4,191,HR,HRV,Croatia
+u0v1w2x3-y4z5-a6b7-c8d9-e0f1g2h3i4j5,203,CZ,CZE,Czech Republic
+u1v2w3x4-y5z6-a7b8-c9d0-e1f2g3h4i5j6,246,FI,FIN,Finland
+u2v3w4x5-y6z7-a8b9-c0d1-e2f3g4h5i6j7,344,HK,HKG,Hong Kong
+u3v4w5x6-y7z8-a9b0-c1d2-e3f4g5h6i7j8,442,LU,LUX,Luxembourg
+u4v5w6x7-y8z9-a0b1-c2d3-e4f5g6h7i8j9,492,MC,MCO,Monaco
+u5v6w7x8-y9z0-a1b2-c3d4-e5f6g7h8i9k0,496,MN,MNG,Mongolia
+u6v7w8x9-y0z1-a2b3-c4d5-e6f7g8h9i0k1,504,MA,MAR,Morocco
+u7v8w9x0-y1z2-a3b4-c5d6-e7f8g9h0i1k2,540,NC,NCL,New Caledonia
+u8v9w0x1-y2z3-a4b5-c6d7-e8f9g0h1i2k3,634,QA,QAT,Qatar
+u9v0w1x2-y3z4-a5b6-c7d8-e9f0g1h2i3k4,702,SG,SGP,Singapore
+v0w1x2y3-z4a5-b6c7-d8e9-f0g1h2i3j4k5,158,TW,TWN,Taiwan
+v1w2x3y4-z5a6-b7c8-d9e0-f1g2h3i4j5k6,788,TN,TUN,Tunisia
+v2w3x4y5-z6a7-b8c9-d0e1-f2g3h4i5j6k7,704,VN,VNM,Vietnam
+r5s6t7u8-v9w0-x1y2-z3a4-b5c6d7e8f9h0,887,YE,YEM,Yemen
+r6s7t8u9-v0w1-x2y3-z4a5-b6c7d8e9f0h1,894,ZM,ZMB,Zambia
